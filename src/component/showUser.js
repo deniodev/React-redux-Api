@@ -12,7 +12,7 @@ const ShowUser = () =>{
    },[])
    if(isLoading){
     return <>
-    <h1>isLoading</h1>
+    <h1>IsLoading</h1>
     </>
    }
    if(error){
